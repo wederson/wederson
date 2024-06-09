@@ -46,3 +46,49 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=4000BF)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
 <br/>
+
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/wederson">
+    <img src="https://github-profile-trophy.vercel.app/?username=wederson&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/wederson">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=wederson&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/wederson">
+          <img align="center" src="https://streak-stats.demolab.com?user=wederson&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr colspan="2">
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Trilha-de-Qualidade/software-quality-assurance-handbook">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Trilha-de-Qualidade&repo=software-quality-assurance-handbook&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
